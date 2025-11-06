@@ -1,0 +1,8 @@
+<div class="container">
+    <canvas ref="canvas1" style="background-color: white; width: 454px; height: 454px;" onclick="handleClick">
+    </canvas>
+
+<!--    <div class=""-->
+<!--         style="background-color: red; border-radius: 16px; width: 32px; height: 32px;-->
+<!--                 margin-left: {{ dotPosition.x }}; margin-top: {{ dotPosition.y }};" on:click="onDotTap"></div>-->
+</div>
